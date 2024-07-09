@@ -2,6 +2,13 @@
 
 This project is a Laravel application integrated with TailwindCSS and Livewire for building an admin dashboard.
 
+## UML Diagram
+
+Here is the UML diagram for the project:
+
+![UML Diagram](public/images/UML.png)
+
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -13,9 +20,9 @@ Before you begin, ensure you have met the following requirements:
 Follow these steps to get the project up and running with Laravel Sail:
 
 ### Clone the Repository
-
 ```sh
-git clone https://github.com/your-username/kcs-app.git
+git https://github.com/OkuhleNdlebe/kcs-app.git
+
 cd kcs-app
 
 ## Copy the .env.example file to .env and modify the environment-specific settings.
